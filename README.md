@@ -1,5 +1,5 @@
 # Terraform Functions
-This project showcases various Terraform functions. Main purpose is for learning and helping others understand how to use these functions.
+This project showcases various Terraform functions. The main purpose is to teach and help others understand how to use these functions.
 
 ## Functions
 
@@ -8,4 +8,4 @@ This project showcases various Terraform functions. Main purpose is for learning
 
 ## Expressions
 
-* `for` 
+* `for`
